@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-My name is Paul Malenke. I am intersted in learning more about how to use coding. I enjoy disc golfing and rock climbing when I have time.
+My name is Paul Malenke. I am intersted in learning more about how to use coding. I enjoy disc golfing, video games, and rock climbing when I have time. Recently, I have started building models of cars that were given to me as gifts.
 
-Link to my lessons_learned.md file:    
-https://github.com/AerE361/mission-1-pmalenke/blob/cc15a367c90e5371c8a39cea7ecd0913267727e4/lessons_learned.md
 
 <!--
 **pmalenke/pmalenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
