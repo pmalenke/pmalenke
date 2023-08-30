@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Paul Malenke. I am intersted in learning more about how to use coding and what applications I can apply it to in my career. I am currently trying to read the whole *Inheritance* series and am currently on *Eldest*. Some of my favorite hobbies are disc golfing and video games.
+My name is Paul Malenke. I am intersted in learning more about how to use coding. I enjoy disc golfing and rock climbing when I have time.
 
 Link to my lessons_learned.md file:    
 https://github.com/AerE361/mission-1-pmalenke/blob/cc15a367c90e5371c8a39cea7ecd0913267727e4/lessons_learned.md
